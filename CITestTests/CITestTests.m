@@ -27,7 +27,7 @@
 - (void)testExample
 {
     
-    STAssertTrue(TRUE, @"true");
+    STAssertFalse(TRUE, @"true");
 }
 
 @end
